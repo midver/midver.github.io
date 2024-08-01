@@ -1,0 +1,30 @@
+---
+layout: post
+title: "Neveris (Project)"
+categories: project
+---
+
+## About:
+
+Neveris is a strategy card game where the player must fight eldritch foes in search of treasure in the mysterious Neveris Sea. 
+
+Download the game on [itch.io](https://midrev.itch.io/neveris)!
+
+This project was made for UCI's Video Game Development Club (VGDC) in Spring 2024. Made by a team of 13 students including programmers, designers, artists, and musicians. 
+
+
+## Languages, Frameworks, Tools
+
+### Organization
+
+- Airtable
+- Github
+- Google Suite 
+- Lucidchart (UML Diagram Creation)
+
+### Technical
+
+- Unity Engine
+- C#
+- Spine Unity Runtime
+

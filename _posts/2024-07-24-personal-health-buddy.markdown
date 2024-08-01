@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Project: Personal Health Buddy"
+title: "Personal Health Buddy (Project)"
 categories: project
 ---
 

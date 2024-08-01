@@ -4,15 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Hello! I am an aspiring software engineer who enjoys learning new technologies and applying my knowledge to solve complex problems. I am familiar with languages such as C++, Python, Javascript, Java, and C#, and have experience with frameworks such as React, React Native, Electron, and Angular. I recently graduated from the University of California, Irvine and am looking forward to starting my career. In my free time, I enjoy [reading](https://www.goodreads.com/user/show/121569774-michael-de-vera), listening to music, and playing the stategy card game [Netrunner](https://nullsignal.games/about/netrunner/)
