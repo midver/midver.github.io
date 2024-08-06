@@ -8,6 +8,7 @@ categories: project
 
 This is a web crawler, indexer, and search engine for the uci.ics domain. 
 
+
 The web crawler scans through sites on the uci.ics domain, scanning each page for links to other pages, and outputs a list of unique urls. It also filters out crawler traps, such as dynamicly generated websites and infinite loops. A total of 35,589 unique urls were found.
 
 The indexer uses the list of urls as input. It scans through the contents of each of them, breaking each website into a list of individual tokens. It does this in order to create an inverted index, where each token is mapped to a list of websites containing that token. The indexer also calculates statistics for each token, such as document and term frequency. After filtering out common "stop" tokens, the total number of tokens found is 72,835.

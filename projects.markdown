@@ -4,4 +4,5 @@ title: "Projects"
 permalink: "/projects"
 published: false
 ---
-Here are my projects: 
+Here is a list of projects I have worked on:
+
